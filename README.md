@@ -137,7 +137,7 @@ All 9 checks pass. They compare totals between the data table and each summary s
 ## Repo structure
 
 ```
-us-regional-sales-excel/
+Excel-US-Regional-Sales-Dashboard/
 ├── README.md
 ├── US_Regional_Sales_Workbook.xlsx
 ├── excel_dashboard.mp4
